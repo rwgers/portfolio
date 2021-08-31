@@ -9,3 +9,10 @@ Interactive personal portfolio with responsive design.
   * With the SVGs ready I tried to replicate the same animation.
 
 Hope you enjoy this little portfolio.
+
+## NOW Portfolio ver. 0.1
+
+## Updates
+Portfolio ver. 0.1
+* Whole page slider
+* Animations
